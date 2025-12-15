@@ -1,4 +1,4 @@
-# Bài 1: GIẢI THUẬT TÌM KIẾM ĐỐI KHÁNG
+# Tuần 03: GIẢI THUẬT TÌM KIẾM ĐỐI KHÁNG
 
 ## 1. Tóm tắt Các Thành phần Đã Triển khai
 
@@ -59,7 +59,7 @@ Do môi trường Colab là môi trường máy chủ, việc chạy các thư v
 Dự án đã hoàn thành việc triển khai các thuật toán tìm kiếm nền tảng, minh họa sự chuyển đổi từ giải thuật tìm kiếm toàn bộ (Minimax 3x3) sang tìm kiếm dựa trên Heuristic và cắt tỉa (Alpha-Beta N x N) để giải quyết các trò chơi có độ phức tạp cao hơn.
 
 ------------------------------------------------------------------------------------------------------
-# Bài 2: CÁC PHƯƠNG PHÁP GIẢI BÀI TOÁN THỎA MÃN RÀNG BUỘC
+# Tuần 04: CÁC PHƯƠNG PHÁP GIẢI BÀI TOÁN THỎA MÃN RÀNG BUỘC
 
 ## 1. Tóm tắt Các Yêu cầu Đã Triển khai
 
@@ -116,7 +116,7 @@ Tuần 04 đã thành công trong việc chuyển đổi trọng tâm từ tìm 
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-# Bài 3: HỌC MÁY
+# Tuần 05: HỌC MÁY
 
 ## 1. Tóm tắt Các Yêu cầu Đã Triển khai
 
