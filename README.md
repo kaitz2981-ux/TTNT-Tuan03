@@ -1,7 +1,7 @@
 # Bài 1: GIẢI THUẬT TÌM KIẾM ĐỐI KHÁNG
 # DỰ ÁN: TRIỂN KHAI THUẬT TOÁN TÌM KIẾM TRÍ TUỆ NHÂN TẠO (AI Search Algorithms)
 
-#Dự án này tập trung vào việc triển khai và ứng dụng các thuật toán tìm kiếm tối ưu (Minimax và Cắt tỉa Alpha-beta) vào các trò chơi chiến thuật, dựa trên yêu cầu của Bài tập tuần 3.
+Dự án này tập trung vào việc triển khai và ứng dụng các thuật toán tìm kiếm tối ưu (Minimax và Cắt tỉa Alpha-beta) vào các trò chơi chiến thuật, dựa trên yêu cầu của Bài tập tuần 3.
 
 ## 1. Tóm tắt Các Thành phần Đã Triển khai
 
