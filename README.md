@@ -52,6 +52,12 @@ Do môi trường Colab là môi trường máy chủ, việc chạy các thư v
 
 **Ghi chú:** Nếu gặp lỗi môi trường (ví dụ: TclError), người dùng cần kiểm tra lại việc khởi động Xvfb và đảm bảo rằng biến môi trường DISPLAY đã được đặt đúng.
 
+---
+
+## 4. Kết luận
+
+Dự án đã hoàn thành việc triển khai các thuật toán tìm kiếm nền tảng, minh họa sự chuyển đổi từ giải thuật tìm kiếm toàn bộ (Minimax 3x3) sang tìm kiếm dựa trên Heuristic và cắt tỉa (Alpha-Beta N x N) để giải quyết các trò chơi có độ phức tạp cao hơn.
+
 ------------------------------------------------------------------------------------------------------
 # Bài 2: CÁC PHƯƠNG PHÁP GIẢI BÀI TOÁN THỎA MÃN RÀNG BUỘC
 
@@ -108,6 +114,3 @@ Tuần 04 đã thành công trong việc chuyển đổi trọng tâm từ tìm 
 
 ---
 
-## 4. Kết luận
-
-Dự án đã hoàn thành việc triển khai các thuật toán tìm kiếm nền tảng, minh họa sự chuyển đổi từ giải thuật tìm kiếm toàn bộ (Minimax 3x3) sang tìm kiếm dựa trên Heuristic và cắt tỉa (Alpha-Beta N x N) để giải quyết các trò chơi có độ phức tạp cao hơn.
