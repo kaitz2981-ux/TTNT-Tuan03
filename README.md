@@ -14,7 +14,7 @@
 
 ## 2. Phân tích Thuật toán Cốt lõi
 
-### 2.1. Cấu trúc Trò chơi (Adversarial Search Components)
+### 2.1. Cấu trúc trò chơi 
 
 Thuật toán được xây dựng dựa trên các thành phần cơ bản của lý thuyết trò chơi:
 
