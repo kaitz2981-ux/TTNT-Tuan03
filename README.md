@@ -70,8 +70,8 @@ Việc ứng dụng Alpha-beta cho Cờ Tướng/Vua/Vây đòi hỏi các thàn
 | STT | Bài tập | Lĩnh vực | Thuật toán Chính | Ghi chú |
 | :--- | :--- | :--- | :--- | :--- |
 | **1 & 2** | Đọc file ma trận `.txt` và tổ chức code. | Xử lý Dữ liệu/I/O | N/A | Tập trung vào tổ chức code module và hiển thị màu. |
-| **3** | Bài toán Người bán hàng (TSP). | Tối ưu hóa Tuyến đường | Thuật toán Tham lam (Greedy) / Quy hoạch Động (DP) | Tìm chu trình chi phí tối thiểu qua N thành phố. |
-| **BTVN** | Sắp xếp lịch học (Scheduling). | Thuật toán Mềm | **Giải thuật Di truyền (Genetic Algorithm)** | Tối ưu hóa lịch học PTTH dựa trên các ràng buộc. |
+| **3** | Bài toán Người bán hàng (TSP). | Tối ưu hóa Tuyến đường | Thuật toán Tham lam  / Quy hoạch động  | Tìm chu trình chi phí tối thiểu qua N thành phố. |
+| **BTVN** | Sắp xếp lịch học (Scheduling). | Thuật toán Mềm | **Giải thuật Di truyền ** | Tối ưu hóa lịch học PTTH dựa trên các ràng buộc. |
 
 ---
 
