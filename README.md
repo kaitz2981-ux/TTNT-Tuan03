@@ -124,9 +124,9 @@ Tuần 04 đã thành công trong việc chuyển đổi trọng tâm từ tìm 
 
 | STT | Bài tập | Kỹ thuật | Phân loại Học | Ghi chú |
 | :--- | :--- | :--- | :--- | :--- |
-| **I.1** | Cài đặt lại thuật toán K-Means | K-Means Clustering | Học không giám sát | Triển khai đầy đủ các hàm cốt lõi (khởi tạo, gán nhãn, cập nhật tâm). |
-| **I.2** | Cài đặt lại thuật toán K-NN | K-Nearest Neighbors | Học có giám sát | Cài đặt thủ công và sử dụng `GridSearchCV` để tìm K tối ưu. |
-| **I.3** | Cài đặt ứng dụng demo | K-Means & K-NN | Tổng hợp | Tích hợp hai thuật toán vào một ứng dụng trực quan. |
+| **BT1** | Cài đặt lại thuật toán K-Means | K-Means Clustering | Học không giám sát | Triển khai đầy đủ các hàm cốt lõi (khởi tạo, gán nhãn, cập nhật tâm). |
+| **BT2** | Cài đặt lại thuật toán K-NN | K-Nearest Neighbors | Học có giám sát | Cài đặt thủ công và sử dụng `GridSearchCV` để tìm K tối ưu. |
+| **BT3** | Cài đặt ứng dụng demo | K-Means & K-NN | Tổng hợp | Tích hợp hai thuật toán vào một ứng dụng trực quan. |
 | **BTVN** | Mô tả và Demo Ứng dụng | K-Means, K-NN, Tổng hợp | Ứng dụng thực tế | Mô tả và cài đặt demo mở rộng các thuật toán đã học. |
 
 ---
